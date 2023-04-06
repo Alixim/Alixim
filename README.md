@@ -70,9 +70,20 @@ Here are some ideas to get you started:
      
 <!-- END Languages & Tools -->
 
+&nbsp;&nbsp;
 
 #
 
 ### 📊 GitHub Stats
 
 ![Nassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassir&show_icons=true&theme=gruvbox)
+
+&nbsp;&nbsp;
+
+#
+
+### 
+<details>
+    <summary><h3>  Nassir's Coding Journey </h3></summary>
+    I sarted my coding journey as ...
+</details>
