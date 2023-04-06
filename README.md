@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating projects
 - 🌱 I’m currently learning Everything.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help to get internship.
+- 🤔 I’m looking for help to get an internship.
 
 <!--
 - 💬 Ask me about ...
@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;"
@@ -68,5 +67,12 @@ Here are some ideas to get you started:
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" 
      src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="30px" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+     
+<!-- END Languages & Tools -->
+
+
+#
+
+### 📊 GitHub Stats
+
+![Nassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassir&show_icons=true&theme=gruvbox)
